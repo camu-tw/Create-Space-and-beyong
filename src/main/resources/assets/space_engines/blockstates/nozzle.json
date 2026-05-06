@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "hot=false": { "model": "space_engines:block/nozzle" },
+    "hot=true": { "model": "space_engines:block/nozzle" }
+  }
+}

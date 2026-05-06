@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "space_engines:block/thermal_shield_slab" },
+    "type=top": { "model": "space_engines:block/thermal_shield_slab_top" },
+    "type=double": { "model": "space_engines:block/thermal_shield" }
+  }
+}

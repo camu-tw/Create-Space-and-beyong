@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CBC",
+    "PWP",
+    "CRC"
+  ],
+  "key": {
+    "C": {
+      "item": "create:copper_casing"
+    },
+    "B": {
+      "item": "minecraft:splash_potion"
+    },
+    "P": {
+      "item": "create:propeller"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "space_engines:air_recycler",
+    "count": 1
+  }
+}

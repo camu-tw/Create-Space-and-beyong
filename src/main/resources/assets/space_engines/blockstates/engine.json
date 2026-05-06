@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "heat=0": { "model": "space_engines:block/engine" },
+    "heat=1": { "model": "space_engines:block/engine" },
+    "heat=2": { "model": "space_engines:block/engine" },
+    "heat=3": { "model": "space_engines:block/engine" },
+    "heat=4": { "model": "space_engines:block/engine" }
+  }
+}

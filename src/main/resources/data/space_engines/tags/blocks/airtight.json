@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "space_engines:interior_panel",
+    "space_engines:interior_floor",
+    "space_engines:interior_wall",
+    "space_engines:thermal_shield",
+    "space_engines:thermal_shield_slab"
+  ]
+}

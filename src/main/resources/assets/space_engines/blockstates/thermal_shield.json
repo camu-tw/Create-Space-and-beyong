@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "heat=0": { "model": "space_engines:block/thermal_shield" },
+    "heat=1": { "model": "space_engines:block/thermal_shield" },
+    "heat=2": { "model": "space_engines:block/thermal_shield" },
+    "heat=3": { "model": "space_engines:block/thermal_shield" },
+    "heat=4": { "model": "space_engines:block/thermal_shield" }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "space_engines:block/thermal_shield",
+    "top": "space_engines:block/thermal_shield",
+    "side": "space_engines:block/thermal_shield"
+  }
+}

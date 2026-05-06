@@ -1,0 +1,21 @@
+{
+  "itemGroup.space_engines": "Space Engines",
+  "block.space_engines.engine": "Engine",
+  "block.space_engines.nozzle": "Nozzle",
+  "block.space_engines.fluid_pipe": "Fluid Pipe",
+  "block.space_engines.thermal_shield": "Thermal Shield",
+  "block.space_engines.spatial_locator": "Spatial Locator",
+  "block.space_engines.air_recycler": "Air Recycler",
+  "block.space_engines.interior_panel": "Interior Panel",
+  "block.space_engines.interior_floor": "Interior Floor",
+  "block.space_engines.interior_wall": "Interior Wall",
+  "block.space_engines.interior_light": "Interior Light",
+  "block.space_engines.thermal_shield_slab": "Thermal Shield Slab",
+  "item.space_engines.solar_coating": "Solar Coating",
+  "item.space_engines.thermal_seal": "Thermal Seal",
+  "item.space_engines.magnet_boots_upgrade": "Magnet Boots Upgrade",
+  "item.space_engines.cosmonaut_helmet": "Cosmonaut Helmet",
+  "item.space_engines.cosmonaut_chestplate": "Cosmonaut Chestplate",
+  "item.space_engines.cosmonaut_leggings": "Cosmonaut Leggings",
+  "item.space_engines.cosmonaut_boots": "Cosmonaut Boots"
+}

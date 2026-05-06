@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ISI",
+    "SBS",
+    "ISI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "create:iron_sheet"
+    },
+    "B": {
+      "item": "create:brass_block"
+    }
+  },
+  "result": {
+    "id": "space_engines:thermal_shield",
+    "count": 2
+  }
+}

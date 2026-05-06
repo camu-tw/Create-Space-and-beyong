@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "space_engines:block/fluid_pipe" }
+  }
+}
