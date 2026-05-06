@@ -15,13 +15,13 @@
 | Cosmonaut Suit | 🟡 In progress |
 | Atmosphere / Oxygen system | 🟡 In progress |
 | Zero Gravity | 🟡 In progress |
-| Thermal Shield / Solar Coating | 🔴 Not started |
-| Sealed Interior / Air system | 🔴 Not started |
-| Orbit Dimension & Transition | 🔴 Not started |
-| Space Navigation GUI | 🔴 Not started |
-| Décor blocks | 🔴 Not started |
-| Magnetic Boot Upgrade | 🔴 Not started |
-| Spatial Locator | 🔴 Not started |
+| Thermal Shield / Solar Coating | 🟡 In progress |
+| Sealed Interior / Air system | 🟡 In progress |
+| Orbit Dimension & Transition | 🟡 In progress |
+| Space Navigation GUI | 🟡 In progress |
+| Décor blocks | 🟡 In progress |
+| Magnetic Boot Upgrade | 🟡 In progress |
+| Spatial Locator | 🟡 In progress |
 
 > **Textures and 3D models are not included.** Placeholder JSON models are generated at the correct resource paths — contributors must supply their own assets.
 
